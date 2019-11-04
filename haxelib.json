@@ -1,0 +1,11 @@
+{
+  "name": "hxtea",
+  "url": "http://blue112.eu/",
+  "license": "BSD",
+  "tags": ["crypt","simple","cross"],
+  "description": "This project embed a single class which allows you use the TEA crypting. Exemple included in the main class.",
+  "version": "1.2.1",
+  "releasenote": "Porting to Haxe 4",
+  "contributors": ["blue112","mataemon"],
+  "dependencies": {}
+}
